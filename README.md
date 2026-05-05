@@ -32,8 +32,9 @@ LLaVA → Explain Results
 
 ## 📸 Demo
 
-![Demo](demo/demo.gif)
-
+![Demo](demo/Screenshot 1.png)
+![Demo](demo/Screenshot 2.png)
+![Demo](demo/Screenshot 3.png)
 ---
 
 ## ⚙️ Installation
