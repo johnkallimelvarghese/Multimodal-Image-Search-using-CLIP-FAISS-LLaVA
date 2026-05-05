@@ -32,22 +32,25 @@ LLaVA → Explain Results
 
 ## 📸 Demo
 
-![Demo](demo/Screenshot 1.png)
-![Demo](demo/Screenshot 2.png)
-![Demo](demo/Screenshot 3.png)
+![Demo](demo/Screenshot1.png)
+![Demo](demo/Screenshot2.png)
+![Demo](demo/Screenshot3.png)
 ---
 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/image-search-reasoning.git
+git clone https://github.com/johnkallimelvarghese/Multimodal-Image-Search-using-CLIP-FAISS-LLaVA
 cd image-search-reasoning
-### Installation
-
 pip install -r requirements.txt
-
-### Dev Setup
-
-pip install -r requirements-dev.txt
-
 streamlit run app.py
+```
+##🛠️ Dev Setup (Optional)
+
+If you plan to modify or extend the project, install additional development dependencies:
+
+```bash
+pip install -r requirements-dev.txt
+```
+
+
