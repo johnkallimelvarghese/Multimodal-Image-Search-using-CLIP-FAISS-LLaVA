@@ -33,7 +33,7 @@ LLaVA → Explain Results
 ## 📸 Demo
 
 ![Demo](demo/Screenshot1.png)
-![Demo](demo/Screenshot2.png)
+
 ![Demo](demo/Screenshot3.png)
 ---
 
@@ -45,7 +45,7 @@ cd image-search-reasoning
 pip install -r requirements.txt
 streamlit run app.py
 ```
-##🛠️ Dev Setup (Optional)
+## 🛠️ Dev Setup (Optional)
 
 If you plan to modify or extend the project, install additional development dependencies:
 
