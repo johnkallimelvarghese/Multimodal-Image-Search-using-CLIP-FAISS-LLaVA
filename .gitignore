@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+
+# Temporary files (your app creates these)
+temp_*
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Jupyter (if any later)
+.ipynb_checkpoints/
+
+# Mac system files
+.AppleDouble
+.LSOverride
